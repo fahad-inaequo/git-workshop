@@ -1,2 +1,2 @@
 # Git Workshop
-## Friday class for *GIT*
+## ***Friday class for GIT***
