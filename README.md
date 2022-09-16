@@ -1,6 +1,6 @@
 # Git Workshop
 ## ***Friday class for GIT***
-###### Class 1
+## Class 1
 
 Git commands are:
 ```
